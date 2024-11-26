@@ -90,7 +90,8 @@ products.forEach(
     dessertCards.innerHTML += `
       <div class="dessert-card">
         <h2>${name}</h2>
-
+        <p></p>
+        <p></p>
       </div>
     `;
   }
